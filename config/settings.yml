@@ -63,7 +63,7 @@ primary_stat: "backers"
 primary_stat_verb: 'backer'
 
 # The 2nd call to action button, towards the middle-ish of the page
-middle_reserve_text: "Donate Now"
+middle_reserve_text: "Reserve Now"
 
 # When the project should end
 expiration_date: <%= DateTime.now + 29 %>
